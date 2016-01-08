@@ -1,5 +1,7 @@
-# jotformPlugin  ![](https://api.travis-ci.org/BuildFire/jotformPlugin.svg)
-Simple jot forms integration 
+# JotFormPlugin  ![](http://www.jotform.com/)
+![](https://api.travis-ci.org/BuildFire/loyaltyPlugin.svg)
+JotForm Plugin allows you to link to external forms, web pages and documents simply by entering the page's URL. 
+
 
 ### How to run test cases
 - npm install
